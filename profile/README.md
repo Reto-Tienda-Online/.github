@@ -8,4 +8,4 @@
 [Respositorio del código](https://github.com/Reto-Tienda-Online/tiendaOnline)
 
 
-by: [Iker](https://github.com//thenetbeangang), [Issam](https://github.com/issam-nz), [Jokin](https://github.com//jokinnn), [Diego](https://github.com/DiegoP2001) and [Julio](https://github.com/danjuaz), 
+by: [Iker](https://github.com//thenetbeangang) && [Issam](https://github.com/issam-nz) && [Jokin](https://github.com//jokinnn) && [Diego](https://github.com/DiegoP2001) && [Julio](https://github.com/danjuaz).
