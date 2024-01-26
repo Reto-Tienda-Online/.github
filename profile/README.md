@@ -4,7 +4,7 @@
 
 ## Api Flask.py 🐍
 [Respositorio del código](https://github.com/Reto-Tienda-Online/api_flask)
-## Web Vue.js 🟡 
+## Web Vue.js 📗
 [Respositorio del código](https://github.com/Reto-Tienda-Online/tiendaOnline)
 
 
