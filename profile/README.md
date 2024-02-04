@@ -7,7 +7,7 @@
 
 ## Instalación
 **Requirimientos previos** -> node.js</br>
-Intalar Vite
+Instalar Vite
 ```npm
 /fronted/reto_final/ npm install vite
 ```
