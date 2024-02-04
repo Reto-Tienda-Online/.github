@@ -6,7 +6,7 @@
 4. [Web Vue.js](#web-vue.js)
 
 ## Instalación
-**Requirimientos previos** -> node.js
+**Requirimientos previos** -> node.js</br>
 Intalar Vite
 ```npm
 /fronted/reto_final/ npm install vite
