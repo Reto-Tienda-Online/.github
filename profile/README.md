@@ -2,8 +2,8 @@
 
 1. [Instalación](#instalación)
 2. [Rentabilidad](#rentabilidad)
-3. [Api Flask.py](#api-flask.py) 
-4. [Web Vue.js](#web-vue.js)
+3. [Api Flask.py](#api-flask.py-) 
+4. [Web Vue.js](#web-vue.js-)
 
 ## Instalación
 **Requirimientos previos** -> node.js</br>
