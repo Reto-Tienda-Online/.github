@@ -1,6 +1,6 @@
 # GAME GROVER 🟢🎮🟢
 
-1. [Instalación](#instalción)
+1. [Instalación](#instalacioón)
 2. [Rentabilidad](#rentabilidad)
 3. [Api Flask.py](#api-flask.py) 
 4. [Web Vue.js](#web-vue.js)
