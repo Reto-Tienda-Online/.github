@@ -2,8 +2,8 @@
 
 1. [Instalación](#instalación)
 2. [Rentabilidad](#rentabilidad)
-3. [Api Flask.py](#api-flaskpy-) 
-4. [Web Vue.js](#web-vuejs-)
+3. [Api Flask.py](#api-flaskpy) 
+4. [Web Vue.js](#web-vuejs)
 
 ## Instalación
 **Requirimientos previos** -> node.js</br>
@@ -21,9 +21,9 @@ Run:
 ```
 ## Rentabilidad
 [Documento PDF](https://github.com/Reto-Tienda-Online/rentabilidad)
-## Api Flask.py 🐍
+## Api Flask.py
 [Respositorio del código](https://github.com/Reto-Tienda-Online/api_flask)
-## Web Vue.js 📗
+## Web Vue.js
 [Respositorio del código](https://github.com/Reto-Tienda-Online/tiendaOnline)
  
 
