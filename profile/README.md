@@ -8,18 +8,18 @@
 ## Instalación
 **Requirimientos previos** -> **node.js**
 </br>
-Instalar dependencias:
-```npm
-/fronted/reto_final/ npm install
-```
-Instalar Vite:
-```npm
-/fronted/reto_final/ npm install vite
-```
-Run:
-```npm
-/fronted/reto_final/ npm run dev
-```
+1. Instalar dependencias:
+ ```npm
+ /fronted/reto_final/ npm install
+ ```
+2. Instalar Vite:
+ ```npm
+ /fronted/reto_final/ npm install vite
+ ```
+3. Run:
+ ```npm
+ /fronted/reto_final/ npm run dev
+ ```
 ## Rentabilidad
 [Documento PDF](https://github.com/Reto-Tienda-Online/rentabilidad)
 ## Api Flask.py
