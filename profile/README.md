@@ -6,7 +6,8 @@
 4. [Web Vue.js](#web-vuejs)
 
 ## Instalación
-**Requirimientos previos** -> node.js</br>
+**Requirimientos previos** -> **node.js**
+</br>
 Instalar dependencias:
 ```npm
 /fronted/reto_final/ npm install
