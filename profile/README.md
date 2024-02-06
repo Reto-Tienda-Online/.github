@@ -1,25 +1,9 @@
 # GAME GROVER 🟢🎮🟢
 
-1. [Instalación](#instalación)
-2. [Rentabilidad](#rentabilidad)
-3. [Api Flask.py](#api-flaskpy) 
-4. [Web Vue.js](#web-vuejs)
+1. [Rentabilidad](#rentabilidad)
+2. [Api Flask.py](#api-flaskpy) 
+3. [Web Vue.js](#web-vuejs)
 
-## Instalación
-**Requirimientos previos** -> **node.js**
-</br>
-1. Instalar dependencias:
- ```npm
- /fronted/reto_final/ npm install
- ```
-2. Instalar Vite:
- ```npm
- /fronted/reto_final/ npm install vite
- ```
-3. Run:
- ```npm
- /fronted/reto_final/ npm run dev
- ```
 ## Rentabilidad
 [Documento PDF](https://github.com/Reto-Tienda-Online/rentabilidad)
 ## Api Flask.py
